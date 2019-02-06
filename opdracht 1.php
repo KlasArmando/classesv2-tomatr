@@ -37,9 +37,5 @@ var_dump($persoon1);
 var_dump($auto1);
 
 
-class Clant{
-    public $naam;
-    public $leeftijd;
-    public $klantnummer;
-}
+
 
